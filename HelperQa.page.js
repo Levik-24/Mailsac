@@ -7,7 +7,7 @@ class HelperQA {
             baseURL: "https://mailsac.com/api/",
             headers:
                 { "Host": "mailsac.com",
-                "Mailsac-Key": `${testToken}`,
+                "Mailsac-Key": 'k_2iCm8cZWCvzreIs11RsgYZ2ISR4QXJLjF',
                 },
             });
         }
